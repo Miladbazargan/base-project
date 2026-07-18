@@ -161,3 +161,7 @@ print("\n--- 29th Commit ---")
 print("Total commits so far:", 29)
 print("Progressing well for Base GitHub roles.")
 print("29th commit completed.")
+# 30th commit - Halfway celebration
+print("\n--- 30th Commit - Halfway Celebration! ---")
+print("30 commits done! Great job so far.")
+print("Only 20 more to go for the 50 commit role.")
