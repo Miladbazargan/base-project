@@ -197,3 +197,7 @@ print("38th commit completed.")
 print("\n--- 39th Commit ---")
 print("Consistency is key for getting roles.")
 print("39th commit done.")
+# 40th commit - Big Milestone
+print("\n--- 40th Commit - Big Milestone! ---")
+print("40 commits reached! Only 10 more to go.")
+print("40th commit completed.")
