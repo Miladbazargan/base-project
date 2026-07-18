@@ -117,7 +117,10 @@ print("Current portfolio value on Base:", portfolio_value(), "USD")
 print("15th commit done.")# 16th commit - More variety
 print("\n--- 16th Commit ---")
 print("Exploring new projects on Base:")
-print("- Friend.tech")
+print("- Friend.tech")# 17th commit - Future plans
+print("\n--- 17th Commit ---")
+print("Future plans: Build a full dApp on Base")
+print("17th commit - keeping the streak alive!")
 print("- Mirror")
 print("- Sound.xyz")
 print("16th commit completed.")
