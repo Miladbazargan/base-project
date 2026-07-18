@@ -108,4 +108,10 @@ def portfolio_value():
 
 print("\n--- 15th Commit ---")
 print("Current portfolio value on Base:", portfolio_value(), "USD")
+print("15th commit done.")# 15th commit - Portfolio tracker simulation
+def portfolio_value():
+    return 2450.75
+
+print("\n--- 15th Commit ---")
+print("Current portfolio value on Base:", portfolio_value(), "USD")
 print("15th commit done.")
