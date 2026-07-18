@@ -98,4 +98,8 @@ try:
     print("Connecting to Base RPC...")
 except:
     print("Connection failed - retrying...")
-print("13th commit done.")
+print("13th commit done.")# 14th commit - Layer 2 features
+print("\n--- 14th Commit ---")
+print("Base is an Optimistic Rollup on Ethereum")
+print("Fast and cheap transactions!")
+print("14th commit completed.")
