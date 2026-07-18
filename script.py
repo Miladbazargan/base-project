@@ -152,3 +152,7 @@ print("26th commit done.")# 27th commit - Community
 print("\n--- 27th Commit ---")
 print("Shoutout to Base community and developers!")
 print("27th commit completed.")
+# 28th commit - Versioning
+print("\n--- 28th Commit ---")
+print("Script version: 0.28")
+print("28th commit done.")
