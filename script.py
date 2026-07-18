@@ -142,4 +142,7 @@ print("Current block on Base:", get_block_number())
 # 23rd commit
 print("\n--- 23rd Commit ---")
 print("Base has very low fees compared to Ethereum mainnet")
-print("23rd commit completed.")
+print("23rd commit completed.")# 24th commit
+for i in range(5):
+    print(f"Simulating user activity {i+1}/5 on Base")
+print("24th commit done.")
