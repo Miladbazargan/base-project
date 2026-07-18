@@ -62,3 +62,16 @@ check_transaction_status("0x1234567890abcdef1234567890abcdef12345678")
 check_transaction_status("0xabcdef1234567890abcdef1234567890abcdef12")
 
 print("Eighth commit done - Progressing toward Base roles")
+# Ninth commit - NFT & Token related simulation
+print("\n--- Ninth Commit ---")
+
+def mint_nft(collection_name):
+    print(f"Minting NFT from collection: {collection_name} on Base")
+
+def transfer_token(token, amount):
+    print(f"Transferring {amount} {token} on Base network")
+
+mint_nft("BasePunks")
+transfer_token("USDC", 150.75)
+
+print("Ninth commit completed successfully!")
