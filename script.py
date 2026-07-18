@@ -181,3 +181,7 @@ print("33rd commit done.")
 print("\n--- 34th Commit ---")
 print("Adding more comments for better code readability.")
 print("34th commit completed.")
+# 35th commit - Milestone
+print("\n--- 35th Commit - Milestone ---")
+print("35 commits reached. Keep going!")
+print("35th commit done.")
