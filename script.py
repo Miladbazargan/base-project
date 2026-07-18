@@ -102,4 +102,10 @@ print("13th commit done.")# 14th commit - Layer 2 features
 print("\n--- 14th Commit ---")
 print("Base is an Optimistic Rollup on Ethereum")
 print("Fast and cheap transactions!")
-print("14th commit completed.")
+print("14th commit completed.")# 15th commit - Portfolio tracker simulation
+def portfolio_value():
+    return 2450.75
+
+print("\n--- 15th Commit ---")
+print("Current portfolio value on Base:", portfolio_value(), "USD")
+print("15th commit done.")
