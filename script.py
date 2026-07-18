@@ -75,3 +75,11 @@ mint_nft("BasePunks")
 transfer_token("USDC", 150.75)
 
 print("Ninth commit completed successfully!")
+# Tenth commit - Adding DeFi helpers
+print("\n--- Tenth Commit ---")
+
+def swap_tokens(from_token, to_token, amount):
+    print(f"Swapping {amount} {from_token} to {to_token} on Base")
+
+swap_tokens("ETH", "USDC", 0.3)
+print("Tenth commit done.")
