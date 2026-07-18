@@ -92,3 +92,10 @@ print("Eleventh commit completed.")
 print("\n--- Twelfth Commit ---")
 print("Reminder: Always use hardware wallet for large amounts on Base")
 print("Twelfth commit done - Staying consistent!")
+# 13th commit - Adding error handling example
+print("\n--- 13th Commit ---")
+try:
+    print("Connecting to Base RPC...")
+except:
+    print("Connection failed - retrying...")
+print("13th commit done.")
