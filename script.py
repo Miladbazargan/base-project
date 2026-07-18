@@ -45,3 +45,9 @@ for dapp in base_dapps:
 
 print("Sixth commit done ✅")
 print("GitHub activity increasing for roles...")
+# Seventh commit - Adding utility functions
+def calculate_gas_fee(amount):
+    return amount * 0.0001
+
+print("Gas fee estimation for Base:", calculate_gas_fee(1.0))
+print("Seventh commit completed.")
