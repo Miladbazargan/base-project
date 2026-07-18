@@ -51,3 +51,14 @@ def calculate_gas_fee(amount):
 
 print("Gas fee estimation for Base:", calculate_gas_fee(1.0))
 print("Seventh commit completed.")
+\# Eighth commit - More Base ecosystem tools
+print("\n--- Eighth Commit ---")
+
+def check_transaction_status(tx_hash):
+    print(f"Checking status of transaction: {tx_hash[:10]}...")
+
+# Simulate some transactions
+check_transaction_status("0x1234567890abcdef1234567890abcdef12345678")
+check_transaction_status("0xabcdef1234567890abcdef1234567890abcdef12")
+
+print("Eighth commit done - Progressing toward Base roles")
