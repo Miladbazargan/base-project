@@ -363,3 +363,7 @@ print("103rd commit done.")
 print("\n--- 104th Commit ---")
 print("Keeping the momentum on Base.")
 print("104th commit completed.")
+# 105th commit - Milestone
+print("\n--- 105th Commit - Milestone ---")
+print("105 commits reached!")
+print("105th commit done.")
