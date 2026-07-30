@@ -423,3 +423,7 @@ print("118th commit completed.")
 print("\n--- 119th Commit ---")
 print("Almost at 120.")
 print("119th commit done.")
+# 120th commit - Milestone
+print("\n--- 120th Commit - Milestone ---")
+print("120 commits achieved! Solid work.")
+print("120th commit done.")
