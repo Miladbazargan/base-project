@@ -347,3 +347,7 @@ print("97th commit done.")
 print("\n--- 98th Commit ---")
 print("Just a couple more left.")
 print("98th commit completed.")
+# 99th commit
+print("\n--- 99th Commit ---")
+print("One away from 100!")
+print("99th commit done.")
