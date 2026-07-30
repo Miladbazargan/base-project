@@ -439,3 +439,7 @@ print("123rd commit completed.")
 print("\n--- 124th Commit ---")
 print("More value added to the script.")
 print("124th commit done.")
+# 125th commit - Milestone
+print("\n--- 125th Commit - Milestone ---")
+print("125 commits reached!")
+print("125th commit done.")
